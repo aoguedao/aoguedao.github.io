@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/event/index.html",
-      "/posts/news/index.html",
-      "/posts/paper/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": []
   },
@@ -22,5 +14,13 @@
   {
     "listing": "/people.html",
     "items": []
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/event/index.html",
+      "/posts/news/index.html",
+      "/posts/paper/index.html"
+    ]
   }
 ]
