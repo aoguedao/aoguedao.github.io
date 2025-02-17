@@ -15,16 +15,7 @@
 <link>https://aoguedao.github.io/posts.html</link>
 </image>
 <generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 15 Oct 2024 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://aoguedao.github.io/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://aoguedao.github.io/</guid>
-  <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://aoguedao.github.io/files/images/placeholder4.JPG" medium="image"/>
-</item>
+<lastBuildDate>Tue, 03 Sep 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Event item</title>
   <dc:creator>Event </dc:creator>
@@ -36,8 +27,8 @@
 
 <p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://aoguedao.github.io/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
 <!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
 Using includes will make edits easier, will only need to add or remove button here if needed.
 https://quarto.org/docs/authoring/includes.html
 -->
@@ -68,8 +59,8 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>About the news</p>
 <!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
+<!--
+AddToAny check more: https://www.addtoany.com/buttons/for/website
 Using includes will make edits easier, will only need to add or remove button here if needed.
 https://quarto.org/docs/authoring/includes.html
 -->
@@ -99,7 +90,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 <!--Include academic icons or bottons-->
-<!-- 
+<!--
 Load Academicons v1: https://jpswalsh.github.io/academicons/
 -->
 <p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>

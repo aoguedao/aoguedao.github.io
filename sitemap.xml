@@ -1,43 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aoguedao.github.io/teaching.html</loc>
-    <lastmod>2025-02-17T03:08:57.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aoguedao.github.io/index.html</loc>
-    <lastmod>2025-02-17T03:08:57.476Z</lastmod>
+    <loc>https://aoguedao.github.io/research.html</loc>
+    <lastmod>2025-02-17T05:13:38.691Z</lastmod>
   </url>
   <url>
     <loc>https://aoguedao.github.io/projects.html</loc>
-    <lastmod>2025-02-17T03:08:57.481Z</lastmod>
+    <lastmod>2025-02-17T05:13:38.691Z</lastmod>
   </url>
   <url>
     <loc>https://aoguedao.github.io/posts.html</loc>
-    <lastmod>2025-02-17T03:08:57.476Z</lastmod>
+    <lastmod>2025-02-17T05:13:38.686Z</lastmod>
   </url>
   <url>
     <loc>https://aoguedao.github.io/posts/news/index.html</loc>
-    <lastmod>2025-02-17T03:08:57.476Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aoguedao.github.io/publications.html</loc>
-    <lastmod>2025-02-17T03:08:57.481Z</lastmod>
+    <lastmod>2025-02-17T05:13:38.686Z</lastmod>
   </url>
   <url>
     <loc>https://aoguedao.github.io/posts/event/index.html</loc>
-    <lastmod>2025-02-17T03:08:57.476Z</lastmod>
+    <lastmod>2025-02-17T05:13:38.686Z</lastmod>
   </url>
   <url>
     <loc>https://aoguedao.github.io/posts/paper/index.html</loc>
-    <lastmod>2025-02-17T03:08:57.481Z</lastmod>
+    <lastmod>2025-02-17T05:13:38.691Z</lastmod>
   </url>
   <url>
     <loc>https://aoguedao.github.io/contact.html</loc>
-    <lastmod>2025-02-17T03:08:57.442Z</lastmod>
+    <lastmod>2025-02-17T05:13:38.636Z</lastmod>
   </url>
   <url>
-    <loc>https://aoguedao.github.io/people.html</loc>
-    <lastmod>2025-02-17T03:08:57.476Z</lastmod>
+    <loc>https://aoguedao.github.io/index.html</loc>
+    <lastmod>2025-02-17T05:13:38.686Z</lastmod>
+  </url>
+  <url>
+    <loc>https://aoguedao.github.io/teaching.html</loc>
+    <lastmod>2025-02-17T05:13:38.691Z</lastmod>
   </url>
 </urlset>
