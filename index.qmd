@@ -67,7 +67,7 @@ listing:
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hi! Work in progress! My bad!
 
 I'm a template that you can fork to build your own website with easy adaptation and deployment.
 
