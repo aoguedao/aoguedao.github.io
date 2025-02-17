@@ -12,10 +12,6 @@
     ]
   },
   {
-    "listing": "/people.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/posts/event/index.html",

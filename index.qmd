@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+title: "Alonso Ogueda-Oliva"
+description-meta: "Alonso Ogueda-Oliva's personal website."
+image: "files/profiles/profile.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -10,89 +10,54 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 60%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:aogueda@gmu.edu
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/aoguedaoliva/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
-      target: _blank
+      href: https://orcid.org/0000-0001-5411-1484
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.cl/citations?user=ZGMBgHwAAAAJ&hl=en
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
 #      target: _blank
 
-listing:
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
+# listing:
+#   - id: recent-posts
+#     contents:
+#       - posts
+#       - posts/post-links.yml
+#     exclude:
+#       title: ""
+#     type: grid
+#     max-items: 3
+# #    image-height: 150px
+#     page-size: 3 #set same as max-times to remove the page number setting
+#     fields: [image, date, title, subtitle]
+#     max-description-length: 75
+#     sort:
+#       - "date desc"
+#       - "title asc"
 ---
 
 :::{#hero-heading}
 
-Hi! Work in progress! My bad!
+My name is Alonso, and I am currently pursuing my PhD degree under the supervision of [Dr. Padmanabhan Seshaiyer](https://math.gmu.edu/~pseshaiy/) at George Mason University, USA. My primary research is on applications and analysis of Physics-Informed Neural Networks (PINNs). I feel that I do not fit the typical archetype of a mathematician, as I am not only passionate about contributing to the field and academia, but also to society.
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. Favor this [repository](https://github.com/drganghe/quarto-academic-website-template) so you can easily come back to the template  
-1. Folk this template and rename it to githubusername.github.io  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `posts`, `teaching`, `projects`, and `people` as needed.
-1. Render and preview your website and commit it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
-
-## Experience
-
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
+During my doctoral studies, I have been developing novel PINNs models applied to infectious diseases, such as COVID-19. Particularly, I am interested in accounting for human behavior in the modeling, including mobility, vaccination or interventions. My strong foundation in mathematics, statistics and computer science has given me the tools to work in theory and numerical applications.
 
 :::
 
-## Recent Posts
+<!-- ## Recent Posts
 Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
 :::{#recent-posts}
-:::
+::: -->
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<!-- <p align="right">[All Posts »](/posts.qmd)</p> -->

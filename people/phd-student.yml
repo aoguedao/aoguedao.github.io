@@ -2,9 +2,9 @@
       image: "/files/profiles/profile2.JPG"
       title: "Student Name"
       lastname: "Website"
-#      author: 
+#      author:
       subtitle: "PhD Student"
 #      date: "2024-03-12"
-      categories: [PhD Student] 
+      categories: [PhD Student]
       started: "2024"
       ended: "2025"

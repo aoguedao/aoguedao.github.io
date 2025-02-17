@@ -27,32 +27,20 @@ website:
             href: contact.qmd
       - text: Research
         menu:
-          - text: List of Publication
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd
+          - text: Research Areas
+            href: research.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Outreach
         menu:
         - text: Presentations
           href: posts.qmd#category=presentation
-      - text: Group
-        href: people.qmd
 
     right:
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: "files/CV - Alonso Ogueda Oliva.pdf"
       - icon: github
         href: https://github.com/aoguedao
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
         target: _blank
   page-navigation: true
 
@@ -61,12 +49,6 @@ website:
     right:
       - icon: github
         href: https://github.com/aoguedao
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
         target: _blank
 
   search:
@@ -82,7 +64,7 @@ website:
 
   open-graph: true
 
-  twitter-card: true
+  twitter-card: false
 #  card-style: summary
 
   site-url: "https://aoguedao.github.io"

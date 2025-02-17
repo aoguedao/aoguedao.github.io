@@ -1,0 +1,19 @@
+---
+title: "Research"
+subtitle: ""
+title-block-banner: false
+---
+
+## Scientific Machine Learning
+
+Scientific Machine Learning (SciML) is a relatively new field that works as a bridge between traditional scientific methods and modern machine learning techniques that has skyrocketed in popularity in the last few years. My main research focuses on the development of novel methods in SciML, particularly in Physics-Informed Neural Networks (PINNs) and their applications. PINNs are a class of neural networks that incorporate physics-based constraints and regularizations into their architecture, making them suitable for solving partial differential equations and inverse problems.
+
+
+## Enhancing pedagogical practices through data in the age of AI
+
+Although education is not my primary practice, I have been heavily involved in it for many years. I have experience as a private tutor, learning assistant, college instructor, and more recently, I have led computational workshops. Through these experiences, I have worked with students across many educational levels, backgrounds, and talents. Being a student myself has also given me the ability to relate to my students and has broadened my perspective of education, while granting me the opportunity to develop my own teaching style: *Using technology and data to enhance student engagement and encourage them to become critical thinkers that can solve real-world problems*.
+
+
+## Data-Driven approaches for urban disaster risk reduction
+
+As the demand for applied mathematicians increases in interdisciplinary research, I have had the opportunity to collaborate with Dr. Jorge León (UTFSM, Chile) in tsunami evacuation projects, which I first began in 2019 while pursuing my master’s degree. Chile is one of the most seismic countries in the world, and I truly believe that with this unique challenge, I can contribute to society with my expertise, create collaborations and explore new research areas. My two main topics of interest here are ABM for urban disasters evacuation, and machine learning explainability for decision-making. The projects I have been involved in require a wide variety of skills, such as geo-data science, agent-based models, statistics, applied mathematics and machine learning.

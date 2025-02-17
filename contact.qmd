@@ -6,19 +6,15 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Alonso Ogueda-Oliva**
 
-School
+Department of Mathematical Sciences
 
-College
+College of Science
 
-University
+George Mason University
 
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: aogueda@gmu.edu
 
 
 </center>
